@@ -1,5 +1,5 @@
 # Sales-Analysis-Project
-This is a slaes analysis file...in which i solve 5 data analysis questions,
+This is a sales analysis file...in which i have solved 5 data analysis questions,
 but we i concate all 11 months file into one csv file that is all_sales_analysis_files.csv
 
 Question 1: what is the best mont for sales? How much we earned that month?
